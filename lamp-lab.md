@@ -21,6 +21,6 @@ NGINX se basa en eventos tiene mayor rendimiento y consume menos recuros lo cual
 lo hace ideal para el alto trafico y contenido estatico.
 
 4- Capturas:
-![localhost](img/localhost.png)	
-![phpinfo](img/phpinfo.png)
-![phpmyadmin](img/phpmyadmin.png)
+![localhost](img/localhost.PNG)	
+![phpinfo](img/phpinfo.PNG)
+![phpmyadmin](img/phpmyadmin.PNG)
